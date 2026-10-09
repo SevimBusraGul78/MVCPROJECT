@@ -1,0 +1,58 @@
+﻿@model List<MVCStok.Models.Entity.TblMüsteriler>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Index", "Musteri", FormMethod.Get))
+            {
+                <p>Aranacak müşteri Adı:@Html.TextBox("p")</p>
+                <input type="submit" value="Ara" />
+            }
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Müsteri Id</th>
+            <th>Müsteri Adı</th>
+            <th>Müsteri Soyadı</th>
+            <th>
+                Sil
+            </th>
+            <th>
+                Güncelle
+            </th>
+            <th>
+                Alert
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var mus in Model)
+        {
+            <tr>
+                <th>@mus.MusteriId</th>
+                <td>@mus.MusteriAd</td>
+                <td>@mus.MusteriSoyad</td>
+                <td>
+                    <a href="/Musteri/SIL/@mus.MusteriId" class="btn btn-danger">SİL</a>
+
+                </td>
+                <td>
+                    <a href="/Musteri/MusteriGetir/@mus.MusteriId" class="btn btn-success">GÜNCELLE</a>
+                </td>
+
+                <td>
+                    @Html.ActionLink("Sil", "Sil",
+                        new { id = mus.MusteriId},
+                        new
+                        {
+                            @class = "btn btn-warning",
+                            onclick = "return confirm('Gerçekten silmek istiyor musunuz?')"
+                        })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("YeniMusteri", "Musteri")" class="btn btn-primary">Yeni Müşteri Ekle</a>

@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|c:\\users\\safranbolu78\\desktop\\c#\\mvcstok\\mvcstok\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|c:\\users\\safranbolu78\\desktop\\c#\\mvcstok\\mvcstok\\views\\musteri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\musteri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|c:\\users\\safranbolu78\\desktop\\c#\\mvcstok\\mvcstok\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|c:\\users\\safranbolu78\\desktop\\c#\\mvcstok\\mvcstok\\views\\sat\u0131s\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\sat\u0131s\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|c:\\users\\safranbolu78\\desktop\\c#\\mvcstok\\mvcstok\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\mvcstok\\controllers\\sat\u0131scontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3534C9AB-25CE-4763-9E0F-F29A5806D0F9}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\controllers\\sat\u0131scontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Urun\\Index.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-09T13:20:56.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Views\\Musteri\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Musteri\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Views\\Musteri\\Index.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Musteri\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-09T13:10:34.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusteriController.cs",
+              "DocumentMoniker": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Controllers\\MusteriController.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Controllers\\MusteriController.cs",
+              "ToolTip": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Controllers\\MusteriController.cs",
+              "RelativeToolTip": "MVCStok\\Controllers\\MusteriController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:08:44.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-09T12:54:39.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Views\\Sat\u0131s\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Sat\u0131s\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Views\\Sat\u0131s\\Index.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Sat\u0131s\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-09T10:50:16.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sat\u0131sController.cs",
+              "DocumentMoniker": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Controllers\\Sat\u0131sController.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Controllers\\Sat\u0131sController.cs",
+              "ToolTip": "C:\\Users\\Safranbolu78\\Desktop\\C#\\MVCStok\\MVCStok\\Controllers\\Sat\u0131sController.cs",
+              "RelativeToolTip": "MVCStok\\Controllers\\Sat\u0131sController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T10:50:04.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

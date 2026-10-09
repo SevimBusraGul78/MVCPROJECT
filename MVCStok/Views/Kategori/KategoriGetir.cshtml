@@ -1,0 +1,21 @@
+﻿@model MVCStok.Models.Entity.TblKategori
+
+@{
+    ViewBag.Title = "KategoriGetir";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>KategoriGetir Sayfası</h2>
+
+@using (Html.BeginForm("Guncelle", "Kategori", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.KategoryuİD)
+    <div class="form-group">
+        @Html.LabelFor(m => m.KategoriAD)
+        @Html.TextBoxFor(m => m.KategoriAD, new { @class = "form-control" })
+    </div>
+    <br />
+    <div>
+        <button class="btn btn-warning" type="submit">Kategori Güncelle</button>
+    </div>
+}
